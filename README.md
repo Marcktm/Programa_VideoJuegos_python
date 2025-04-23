@@ -1,3 +1,13 @@
+# RECURSOS PROFESOR - CAPACITACIÓN
+
+## 🎥 Lista de reproducción recomendada
+
+👉 [Curso completo de PyGame](https://www.youtube.com/playlist?list=PL2ImQBOumhlN2d1taIxOU280LDDq-gRYi)
+
+Esta lista de videos complementa el curso PyRacers y te permite profundizar en el desarrollo de videojuegos con Python y Pygame desde cero.
+
+--- 
+
 # Programa_VideoJuegos_pyt
 # 🎮 Curso: Programación en Python con Videojuegos – PyRacers
 
